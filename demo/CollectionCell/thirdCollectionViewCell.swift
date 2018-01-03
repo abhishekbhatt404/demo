@@ -13,7 +13,7 @@ class thirdCollectionViewCell: UICollectionViewCell {
     @IBOutlet weak var Imagecoll3: UIImageView!
     override func awakeFromNib() {
         super.awakeFromNib()
-        // Initialization code
+       
     }
 
 }
